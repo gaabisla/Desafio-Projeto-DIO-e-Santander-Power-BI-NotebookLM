@@ -15,7 +15,7 @@ A indústria da Arquitetura, Engenharia, Construção e Operação (AECO) passa 
 
 ---
 
-## Referêncial Teórico
+## Referênciais Bibliográficas
 
 Para fundamentar as análises deste caderno, foram selecionadas **5 fontes abertas em texto e PDF** de alta relevância acadêmica e técnica, carregadas e analisadas no ambiente do Gemini Notebook:
 
